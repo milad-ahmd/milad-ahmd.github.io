@@ -1,0 +1,99 @@
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+---------------------------------------------------------------*/
+/*-------------------------------------------------------------
+1.0 Material
+---------------------------------------------------------------   
+2.0 App-variable
+--------------------------------------------------------------- 
+/*-------------------------------------------------------------
+3.0 Dashboard
+-------------------------------------------------------------*/
+/*-------------------------------------------------------------
+4.0 Widget
+-------------------------------------------------------------*/
+/*-------------------------------------------------------------
+5.0 E-commerce
+-------------------------------------------------------------*/
+/*-------------------------------------------------------------
+6.0 Pages
+-------------------------------------------------------------*/
+/*-------------------------------------------------------------
+7.0 Session
+-------------------------------------------------------------*/
+/*-------------------------------------------------------------
+8.0 Modules
+-------------------------------------------------------------*/
+/*-------------------------------------------------------------
+9.0 Components
+-------------------------------------------------------------*/
+/*-------------------------------------------------------------
+10.0 Application
+-------------------------------------------------------------*/
+/*-------------------------------------------------------------
+11.0 Features
+-------------------------------------------------------------*/
+/*-------------------------------------------------------------
+12.0 Core
+-------------------------------------------------------------*/
+/*-------------------------------------------------------------
+13.0 Utilities
+-------------------------------------------------------------*/
+/*-------------------------------------------------------------
+14.0 Customizer
+-------------------------------------------------------------*/
+
+@import "material-theme";
+@import 'material';
+@import "app.variables";
+@import "dashboard";
+@import "widget";
+@import "e-commerce";
+@import "pages";
+@import "session";
+@import "modules";
+@import "components";
+@import "application";
+@import "features";
+@import "core";
+@import "utilities/utilities";
+@import "customizer";
+html {
+  direction: rtl;
+  text-align: right;
+}
+@font-face {
+  font-family: IRANSans-web;
+  font-style: normal;
+  font-weight: normal;
+  src: url('../../assets/fonts/iranSans/IRANSansWeb.eot');
+  src: url('../../assets/fonts/iranSans/IRANSansWeb.eot?#iefix') format('embedded-opentype'),
+  url('../../assets/fonts/iranSans/IRANSansWeb.woff2') format('woff2'),
+  url('../../assets/fonts/iranSans/IRANSansWeb.woff') format('woff'),
+  url('../../assets/fonts/iranSans/IRANSansWeb.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: IRANSans-web-bold;
+  font-style: normal;
+  font-weight: normal;
+  src: url('../../assets/fonts/iranSans/IRANSansWeb_Bold.woff') format('woff')
+}
+
+@font-face {
+  font-family: IRANSansWeb-FaNum;
+  font-style: normal;
+  font-weight: normal;
+  src: url('../../assets/fonts/iranSansFa(num)/IRANSansWebFaNum-Medium.woff2') format('woff2'),
+  url('../../assets/fonts/iranSansFa(num)/IRANSansWebFaNum-Medium.woff') format('woff');
+}
+
+
+body, div, table, label, button, span, a, p, legend, input,pre {
+  text-decoration: none;
+  font-family: IRANSans-web;
+}
+
+.mat-table{
+  font-family: IRANSans-web!important;
+}
