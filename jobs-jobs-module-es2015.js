@@ -9369,12 +9369,6 @@ class JobService extends _serivce_base2_service__WEBPACK_IMPORTED_MODULE_1__["Se
         this._HttpClient = _HttpClient;
         this._objectName = 'job/';
     }
-    save(object) {
-        return this.postService(`save/`, object);
-    }
-    edit(object) {
-        return this.putService(`/update/`, object);
-    }
     getAll() {
         return this.getServiceF(`all/`);
     }

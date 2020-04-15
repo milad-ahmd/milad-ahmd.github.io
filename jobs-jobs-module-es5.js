@@ -14715,16 +14715,6 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }
 
       _createClass(JobService, [{
-        key: "save",
-        value: function save(object) {
-          return this.postService("save/", object);
-        }
-      }, {
-        key: "edit",
-        value: function edit(object) {
-          return this.putService("/update/", object);
-        }
-      }, {
         key: "getAll",
         value: function getAll() {
           return this.getServiceF("all/");
