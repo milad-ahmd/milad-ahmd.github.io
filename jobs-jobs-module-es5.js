@@ -14416,7 +14416,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-jobs"]],
       decls: 5,
       vars: 3,
-      consts: [[4, "ngIf"], ["class", "container mt-5", 4, "ngIf"], [1, "container", "mt-5"], ["class", "col-md-12", 4, "ngFor", "ngForOf"], [1, "col-md-12"], [1, "row"], [1, "each-job"], [1, "d-flex", "justify-content-between"], [1, "job-title"], [1, "resume", 3, "click"], [1, "d-flex", "mb-3"], ["src", "/assets/img/pin.svg", 1, "ml-2", 2, "width", "20px"], [1, "d-flex"], ["src", "/assets/img/portfolio.svg", 1, "ml-2", 2, "width", "20px"], [1, "col-md-12", "text-center"], [1, "alert", "text-center"]],
+      consts: [[4, "ngIf"], ["class", "container mt-5", 4, "ngIf"], [1, "container", "mt-5"], ["class", "col-md-12", 4, "ngFor", "ngForOf"], [1, "col-md-12"], [1, "row"], [1, "each-job"], [1, "d-flex", "justify-content-between"], [1, "job-title"], [1, "resume", 3, "click"], [1, "d-flex", "mb-3"], ["src", "/assets/img/pin.svg", 1, "ml-2", 2, "width", "20px", "height", "20px"], [1, "d-flex"], ["src", "/assets/img/portfolio.svg", 1, "ml-2", 2, "width", "20px", "height", "20px"], [1, "col-md-12", "text-center"], [1, "alert", "text-center"]],
       template: function JobsComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "app-second-header");
