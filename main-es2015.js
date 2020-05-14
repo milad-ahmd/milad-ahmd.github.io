@@ -168,7 +168,7 @@ __webpack_require__.r(__webpack_exports__);
 const environment = {
     production: false,
     // API_URL: 'http://localhost:8080/api/',
-    API_URL: 'http://185.116.160.165:8080/api/'
+    API_URL: 'http://77.237.73.34:8080/api/'
 };
 
 
