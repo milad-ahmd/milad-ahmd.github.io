@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.699918ac.css",
-    "main.js": "/static/js/main.2fadeccb.js",
-    "static/js/981.0b242d6d.chunk.js": "/static/js/981.0b242d6d.chunk.js",
-    "static/css/995.38abb11b.chunk.css": "/static/css/995.38abb11b.chunk.css",
-    "static/js/995.873e4ab9.chunk.js": "/static/js/995.873e4ab9.chunk.js",
+    "main.css": "/static/css/main.35ed1d3e.css",
+    "main.js": "/static/js/main.fad3d09f.js",
+    "static/js/981.e9545887.chunk.js": "/static/js/981.e9545887.chunk.js",
+    "static/css/964.0495f954.chunk.css": "/static/css/964.0495f954.chunk.css",
+    "static/js/964.69fbe2cf.chunk.js": "/static/js/964.69fbe2cf.chunk.js",
     "static/js/787.a25db761.chunk.js": "/static/js/787.a25db761.chunk.js",
     "static/js/833.18a4d775.chunk.js": "/static/js/833.18a4d775.chunk.js",
-    "static/js/291.d38bdebb.chunk.js": "/static/js/291.d38bdebb.chunk.js",
-    "static/media/MaskTitle.svg": "/static/media/MaskTitle.e43c8605ad2eb8a487f5a4ec7bd6aca2.svg",
+    "static/js/759.5d530623.chunk.js": "/static/js/759.5d530623.chunk.js",
+    "static/media/Noise.png": "/static/media/Noise.df6a33c04e566af79f46.png",
     "static/media/Poppins-Light.otf": "/static/media/Poppins-Light.b976bb0ec8e55b8be7ce.otf",
     "static/media/Poppins-Regular.otf": "/static/media/Poppins-Regular.b3a51877b7b666ee35b5.otf",
     "static/media/Poppins-SemiBold.otf": "/static/media/Poppins-SemiBold.fa4f6f5bac32592b8bfe.otf",
@@ -50,17 +50,17 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.699918ac.css.map": "/static/css/main.699918ac.css.map",
-    "main.2fadeccb.js.map": "/static/js/main.2fadeccb.js.map",
-    "981.0b242d6d.chunk.js.map": "/static/js/981.0b242d6d.chunk.js.map",
-    "995.38abb11b.chunk.css.map": "/static/css/995.38abb11b.chunk.css.map",
-    "995.873e4ab9.chunk.js.map": "/static/js/995.873e4ab9.chunk.js.map",
+    "main.35ed1d3e.css.map": "/static/css/main.35ed1d3e.css.map",
+    "main.fad3d09f.js.map": "/static/js/main.fad3d09f.js.map",
+    "981.e9545887.chunk.js.map": "/static/js/981.e9545887.chunk.js.map",
+    "964.0495f954.chunk.css.map": "/static/css/964.0495f954.chunk.css.map",
+    "964.69fbe2cf.chunk.js.map": "/static/js/964.69fbe2cf.chunk.js.map",
     "787.a25db761.chunk.js.map": "/static/js/787.a25db761.chunk.js.map",
     "833.18a4d775.chunk.js.map": "/static/js/833.18a4d775.chunk.js.map",
-    "291.d38bdebb.chunk.js.map": "/static/js/291.d38bdebb.chunk.js.map"
+    "759.5d530623.chunk.js.map": "/static/js/759.5d530623.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.699918ac.css",
-    "static/js/main.2fadeccb.js"
+    "static/css/main.35ed1d3e.css",
+    "static/js/main.fad3d09f.js"
   ]
 }
